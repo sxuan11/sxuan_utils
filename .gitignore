@@ -1,0 +1,4 @@
+# Created by .ignore support plugin
+node_modules/
+package-lock.json
+.idea
